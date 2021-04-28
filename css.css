@@ -1,1 +1,92 @@
-.
+ body {
+    font: 15px/1.5 arial, sans-serif;
+    padding: 0;
+    margin: 0px;
+    text-align: center;
+    background-color: #f1f3f5
+}
+.contenedor {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background: #000000;
+    color: #ACACAC;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: grey 2px solid;
+}
+header a {
+    text-transform: unset;
+    text-decoration-color: black;
+    color: white;
+    font-size: 16px;
+}
+header li {
+    float: left;
+    display: inline;
+    padding: 0% 20px 0% 20px;
+}
+header #marca {
+    float: left;
+}
+header nav {
+    float: right;
+	margin-top: 10px;
+}
+img {
+    max-width: 400px;
+    margin: 0px;
+}
+  h5 img {
+    max-width: 115px;
+    margin : 0px;
+    text-aling: left;
+  }
+  footer img {
+    max-width: 30px;
+  }
+  
+  h3 { 
+    color: #fafafa;
+    background-color: #1D1D1D;
+  }
+  
+  header h5 {
+    color: black;
+  }
+  h5 a {
+    color: black;
+    text-decoration-color: #404040;
+  }
+  h6 a {
+    color: black;
+    text-decoration-color: #404040;
+  }
+  p a {
+    color: black;
+    text-decoration-color: #f1f3f5;
+  }
+  
+  footer {
+     background-color: grey;
+     border-bottom: black 2px solid;
+  }
+  footer a {
+    color: black;
+    text-decoration-color: grey;
+  }
+  footer h1 {
+    color: white;
+  }
+  footer p {
+    color: grey;
+  }
+  footer h6 {
+    color: black;
+  }
